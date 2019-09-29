@@ -5,7 +5,7 @@ function loginPage() {
   loadHtml(`
   <div class="container">
     <div class="login center">
-      <h4 class="loginheader teal-text">Light Map</h4>
+      <h4 class="loginheader teal-text">SinglePageApp</h4>
       <form>
         <div class="input-field center field">
             <input id="username" type="text" class="validate">
